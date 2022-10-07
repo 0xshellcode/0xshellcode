@@ -1,4 +1,4 @@
-<h1 align="center">Helllo there 👋, I'm 0xshellcode</h1>
+<h1 align="center">Hello there 👋, I'm 0xshellcode</h1>
 <h3 align="center">I like to play with bytes.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xshellcode" alt="0xshellcode" /></a> </p>
